@@ -1,13 +1,2 @@
-# test-1
-this is testing repo-1
-<br>
-iam kumar swamy <br>
-this is ravi from kkd 
-<br>
-sahil for testing the new branch
-[youtube](https://www.youtube.com/)
-<br>
-![allu arjun](https://wallpapers.com/images/high/allu-arjun-hd-winter-snow-196giszhcy0h8crr.webp)
-
-<br?
-<img src="https://wallpapers.com/images/high/allu-arjun-hd-winter-snow-196giszhcy0h8crr.webp" >
+<h1>test-1</h1>
+<h2>kumar swamy.......</h2>
